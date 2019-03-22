@@ -1,2 +1,2 @@
 # apidocs
-Simple API Docs using Redoc
+Simple API Documentation
